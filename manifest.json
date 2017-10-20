@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "new one",
+  "name": "new one",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/boD6mksRhOxDs7qmXE3k",
       "sizes": "144x144",
       "type": "image/png"
     }
